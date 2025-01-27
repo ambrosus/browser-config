@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "x3na",
+            "url": "https://x3na.com",
+            "isAirDaoApp": "true"
+        },
+        {
+            "id": 2,
+            "name": "airQuest",
+            "url": "https://airquest.xyz",
+            "isAirDaoApp": "true"
+        }
+    ]
+}
