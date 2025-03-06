@@ -10,7 +10,7 @@
                 "en": "Earn with pools & swap tokens",
                 "tr": "!!!Earn with pools & swap tokens"
             },
-            "uri": "https://test.du0mriawhzxkx.amplifyapp.com/swap?inputCurrency=AMB&outputCurrency=0xFF9F502976E7bD2b4901aD7Dd1131Bb81E5567de",
+            "uri": "https://staging.du0mriawhzxkx.amplifyapp.com/swap?inputCurrency=AMB&outputCurrency=0xdd82283Fc93Aa4373B6B27a7B25EB3A770fc3aba",
             "isAirDaoApp": "true",
             "background": [
                 "rgba(53, 210, 221, 1)",
