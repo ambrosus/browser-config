@@ -8,7 +8,7 @@
             },
             "description": {
                 "en": "Earn with pools & swap tokens",
-                "tr": "!!!Earn with pools & swap tokens"
+                "tr": "Havuzlarla kazanın ve token takas edin"
             },
             "uri": "https://test.du0mriawhzxkx.amplifyapp.com/swap?inputCurrency=AMB&outputCurrency=0xFF9F502976E7bD2b4901aD7Dd1131Bb81E5567de",
             "isAirDaoApp": "true",
