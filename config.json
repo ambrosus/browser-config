@@ -2,6 +2,7 @@
     "products": [
         {
             "id": 5,
+            "platforms": ["ios"],
             "name": {
                 "en": "Astra DEX",
                 "tr": "Astra DEX"
