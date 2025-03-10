@@ -2,6 +2,7 @@
     "products": [
         {
             "id": 5,
+            "platforms": ["ios"],
             "name": {
                 "en": "Astra DEX",
                 "tr": "Astra DEX"
@@ -21,6 +22,7 @@
         },
         {
             "id": 6,
+            "platforms": ["ios", "android"],
             "name": {
                 "en": "X3NA",
                 "tr": "X3NA"
@@ -40,6 +42,7 @@
         },
         {
             "id": 7,
+            "platforms": ["ios", "android"],
             "name": {
                 "en": "AirQuest",
                 "tr": "AirQuest"
