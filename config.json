@@ -5,8 +5,8 @@
             "section": "trade",
             "platforms": ["ios"],
             "name": {
-                "en": "Astra DEX",
-                "tr": "Astra DEX"
+                "en": "Swap",
+                "tr": "Takas"
             },
             "description": {
                 "en": "Earn with pools & swap tokens",
