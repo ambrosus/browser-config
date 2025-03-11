@@ -2,6 +2,7 @@
     "products": [
         {
             "id": 5,
+            "section": "trade",
             "platforms": ["ios"],
             "name": {
                 "en": "Astra DEX",
@@ -22,6 +23,7 @@
         },
         {
             "id": 6,
+            "section": "web",
             "platforms": ["ios", "android"],
             "name": {
                 "en": "X3NA",
