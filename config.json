@@ -2,6 +2,7 @@
     "products": [
         {
             "id": 5,
+            "uid": "astra_dex",
             "section": "trade",
             "platforms": ["ios"],
             "name": {
@@ -20,6 +21,7 @@
         },
         {
            "id": 6,
+           "uid": "snapshot_airdao",
            "section": "web",
            "platforms": [
              "ios",
@@ -41,6 +43,7 @@
         },
         {
             "id": 7,
+            "uid": "xena_airdao",
             "section": "web",
             "platforms": ["ios", "android"],
             "name": {
