@@ -30,7 +30,7 @@
       },
       "description": {
         "en": "Make Your Voice Heard!",
-        "tr": "!!!Make Your Voice Heard!"
+        "tr": "Sesinizi Duyurun!"
       },
       "uri": "https://snapshot.box/#/s:airdaofoundation.eth",
       "isAirDaoApp": "false",
@@ -68,7 +68,7 @@
       },
       "description": {
         "en": "AirDAO's AI-driven Memecoin \nLaunchpad",
-        "tr": "AirDAO's AI-driven Memecoin \nLaunchpad"
+        "tr": "AirDAO'nun AI destekli Memecoin \nLansman Platformu"
       },
       "uri": "https://staging-testnet.airdao.io/amb-rodeo",
       "isAirDaoApp": "true",
