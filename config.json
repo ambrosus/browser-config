@@ -70,7 +70,7 @@
         "en": "AirDAO's AI-driven Memecoin \nLaunchpad",
         "tr": "AirDAO'nun AI destekli Memecoin \nLansman Platformu"
       },
-      "uri": "https://staging-testnet.airdao.io/amb-rodeo",
+      "uri": "https://staging-testnet.airdao.io/amb-rodeo/?page=1",
       "isAirDaoApp": "false",
       "background": ["rgba(159, 159, 159, 1)", "rgba(159, 159, 159, 1)"],
       "color": "rgba(255, 255, 255, 1)",
