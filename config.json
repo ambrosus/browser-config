@@ -93,7 +93,7 @@
       "isAirDaoApp": "false",
       "background": ["rgba(159, 159, 159, 1)", "rgba(159, 159, 159, 1)"],
       "color": "rgba(255, 255, 255, 1)",
-      "icon": '',
+      "icon": "",
     }
   ]
 }
